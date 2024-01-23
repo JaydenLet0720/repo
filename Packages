@@ -20,6 +20,6 @@ Maintainer: Jaydenn
 Author: Jaydenn
 Section: Tweak
 Depends: 
-Filename: debs/com.jaydenn.accentchanger_0.0.1_iphoneos-arm64.deb
-Size: 1678
-MD5sum: d99432c44f2c2f59d392e888447754d7
+Filename: debs/com.jaydenn.accentchanger_iphoneos-arm64.deb
+Size: 3948
+MD5sum: 12867bf7b70ce0828eab68c12cae262e
